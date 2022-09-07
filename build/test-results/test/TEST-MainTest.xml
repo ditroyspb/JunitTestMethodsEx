@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-09-07T08:47:31" hostname="DESKTOP-31C30ET" time="0.078">
+  <properties/>
+  <testcase name="taxEarningsGreater0Hamcrest()" classname="MainTest" time="0.014"/>
+  <testcase name="taxEarningsMinusSpendHamcrest()" classname="MainTest" time="0.002"/>
+  <testcase name="[1] 1000, 400, 90" classname="MainTest" time="0.021"/>
+  <testcase name="[2] 2000, 200, 270" classname="MainTest" time="0.001"/>
+  <testcase name="[3] 1500, 500, 150" classname="MainTest" time="0.0"/>
+  <testcase name="[4] 800, 800, 0" classname="MainTest" time="0.001"/>
+  <testcase name="[5] 500, 800, 0" classname="MainTest" time="0.0"/>
+  <testcase name="[1] 1000, 60" classname="MainTest" time="0.001"/>
+  <testcase name="[2] 2000, 120" classname="MainTest" time="0.001"/>
+  <testcase name="[3] 500, 30" classname="MainTest" time="0.001"/>
+  <testcase name="[4] 0, 0" classname="MainTest" time="0.001"/>
+  <testcase name="[5] 3000, 180" classname="MainTest" time="0.0"/>
+  <testcase name="taxEarnings()" classname="MainTest" time="0.001"/>
+  <testcase name="taxEarningsMinSpendGreater0Hamcrest()" classname="MainTest" time="0.001"/>
+  <testcase name="taxEarningsHamcrest()" classname="MainTest" time="0.001"/>
+  <testcase name="taxEarningsMinusSpend()" classname="MainTest" time="0.001"/>
+  <system-out><![CDATA[Tests started
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Test started
+Test finished
+Tests finished
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
